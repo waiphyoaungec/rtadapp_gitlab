@@ -1,0 +1,4 @@
+#Tue Nov 03 14:12:41 MMT 2020
+base.0=/Users/waiphyoaung/AndroidStudioProjects/rtad/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
